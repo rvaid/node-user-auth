@@ -75,6 +75,7 @@ Add headers {Content-Type : 'application/x-www-form-urlencoded'}
 
 NOTE : authentication logic under auth folder
 NOTE : user based api logic under user folder
-NOTE : app.properties file is sent separately in mail as it is not a good practice(security) to add configuration data to online repo.
+NOTE : app.properties (to be placed in root folder)
+       --file is sent separately in mail as it is not a good practice(security) to add configuration data to online repo.
 
 
